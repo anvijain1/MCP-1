@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price_inr,rating,review_count,stock_quantity,description
+P1001,Wireless Mouse,Electronics,LogiCore,799,4.4,1280,52,Ergonomic wireless mouse with adjustable DPI
+P1002,Mechanical Keyboard,Electronics,KeyForge,3499,4.6,842,18,Tenkeyless mechanical keyboard with tactile switches
+P1003,USB-C Hub 7-in-1,Electronics,PortPilot,2299,4.3,615,27,"USB-C hub with HDMI, USB-A, SD and power delivery"
+P1004,Bluetooth Headphones,Electronics,SoundNest,2799,4.2,1940,34,Over-ear wireless headphones with noise isolation
+P1005,Portable Bluetooth Speaker,Electronics,SoundNest,1899,4.1,973,41,Compact portable speaker with 12-hour battery
+P1006,27-inch Monitor,Electronics,ViewPeak,14999,4.5,436,12,Full HD monitor with adjustable stand
+P1007,Webcam 1080p,Electronics,ClearFrame,2199,4.0,688,23,Full HD webcam with built-in microphone
+P1008,Power Bank 20000mAh,Electronics,VoltMate,1799,4.3,1522,65,Fast-charging power bank with dual USB output
+P1009,65W USB-C Charger,Electronics,VoltMate,1499,4.5,1103,48,Compact 65W charger with over-current protection
+P1010,External SSD 1TB,Electronics,DataTrail,6999,4.7,524,16,Portable solid-state drive with USB-C connection
+P1011,Smartphone Stand,Electronics,DeskEase,399,4.1,337,92,Foldable aluminium stand for phones and small tablets
+P1012,Laptop Cooling Pad,Electronics,CoolGrid,1299,4.0,461,31,Laptop cooling pad with dual quiet fans
+P1013,Fitness Band,Wearables,PulseTrack,2499,4.0,1288,29,"Fitness band tracking steps, sleep and heart rate"
+P1014,Smart Watch,Wearables,PulseTrack,5999,4.3,976,14,Smart watch with GPS and activity tracking
+P1015,Running Earbuds,Wearables,SoundNest,1999,4.2,741,37,Sweat-resistant wireless earbuds for workouts
+P1016,Digital Kitchen Scale,Home & Kitchen,MeasureWell,699,4.5,592,44,Digital scale with tare function and gram precision
+P1017,Insulated Water Bottle,Home & Kitchen,ThermoTrail,899,4.4,1387,73,750ml stainless steel insulated water bottle
+P1018,French Press 600ml,Home & Kitchen,BrewCraft,1199,4.3,382,22,Glass French press with stainless steel filter
+P1019,Air Fryer 4L,Home & Kitchen,CrispHome,5499,4.5,811,9,Four-litre air fryer with adjustable temperature
+P1020,Electric Kettle 1.5L,Home & Kitchen,BrewCraft,1599,4.2,927,26,Automatic shut-off electric kettle
+P1021,Desk Lamp LED,Home & Kitchen,DeskEase,999,4.1,573,38,Dimmable LED desk lamp with touch controls
+P1022,Non-stick Frying Pan,Home & Kitchen,CookSphere,1399,4.0,688,19,26cm non-stick frying pan with heat-resistant handle
+P1023,Storage Container Set,Home & Kitchen,NeatNest,799,4.2,1064,57,Set of five airtight food storage containers
+P1024,Bedsheet Double,Home & Kitchen,SoftHarbor,1499,4.3,728,21,Cotton-blend double bedsheet with two pillow covers
+P1025,Yoga Mat,Sports & Outdoors,FlexField,999,4.4,1531,46,Non-slip 6mm exercise and yoga mat
+P1026,Resistance Bands Set,Sports & Outdoors,FlexField,599,4.2,1174,81,Set of five resistance bands with varied tension
+P1027,Adjustable Dumbbell 10kg,Sports & Outdoors,IronPath,2999,4.5,396,11,Adjustable dumbbell set for home workouts
+P1028,Trekking Backpack 40L,Sports & Outdoors,TrailMark,2799,4.3,514,17,40-litre hiking backpack with padded straps
+P1029,Insulated Travel Mug,Sports & Outdoors,ThermoTrail,749,4.1,862,35,Leak-resistant travel mug for hot and cold drinks
+P1030,Skipping Rope,Sports & Outdoors,IronPath,349,4.0,643,104,Adjustable skipping rope with ergonomic handles
+P1031,Cotton T-Shirt,Clothing,EveryThread,499,4.1,2034,120,Regular-fit cotton T-shirt
+P1032,Denim Jeans,Clothing,EveryThread,1499,4.2,1192,43,Straight-fit denim jeans for everyday wear
+P1033,Running Shoes,Clothing,StrideWorks,3299,4.4,956,25,Lightweight running shoes with cushioned sole
+P1034,Hooded Sweatshirt,Clothing,EveryThread,1799,4.3,721,32,Fleece-lined hooded sweatshirt
+P1035,Everyday Backpack,Bags & Accessories,CarryKind,1299,4.2,1067,39,Everyday backpack with padded laptop sleeve
+P1036,Canvas Tote Bag,Bags & Accessories,CarryKind,399,4.0,589,88,Reusable canvas tote bag with reinforced handles
+P1037,Travel Organizer Pouch,Bags & Accessories,CarryKind,549,4.1,427,63,Zippered pouch for cables and travel essentials
+P1038,Leather Wallet,Bags & Accessories,UrbanHide,1199,4.3,834,28,Compact wallet with multiple card slots
+P1039,Sunglasses UV400,Bags & Accessories,SunArc,899,4.0,1165,47,Lightweight sunglasses with UV400 protection
+P1040,Ballpoint Pen Set,Office Supplies,PaperPilot,199,4.2,1763,140,Pack of ten smooth-writing ballpoint pens
+P1041,A5 Notebook 3-Pack,Office Supplies,PaperPilot,249,4.5,1438,110,Three ruled A5 notebooks with durable covers
+P1042,Ergonomic Office Chair,Office Supplies,DeskEase,8999,4.4,312,7,Adjustable office chair with lumbar support
+P1043,Whiteboard 60x90cm,Office Supplies,WriteRight,1299,4.1,284,15,Wall-mount whiteboard with aluminium frame
+P1044,Wireless Presenter,Office Supplies,KeyForge,999,4.0,358,24,Wireless presentation remote with laser pointer
+P1045,Sunscreen SPF 50,Personal Care,PureShield,599,4.3,1672,54,Broad-spectrum SPF 50 sunscreen lotion
+P1046,Face Moisturizer 100ml,Personal Care,DewTheory,449,4.2,1241,61,Lightweight daily facial moisturizer
+P1047,Shampoo 400ml,Personal Care,RootRevive,399,4.0,1458,72,Daily-use shampoo for normal hair
+P1048,Electric Toothbrush,Personal Care,BrightMint,1799,4.4,736,20,Rechargeable electric toothbrush with two modes
+P1049,Hair Dryer,Personal Care,StyleCurrent,1599,4.1,682,18,Hair dryer with two heat settings
+P1050,Ceramic Plant Pot,Garden,GreenCorner,499,4.3,493,36,Ceramic indoor plant pot with drainage hole
+P1051,Pruning Shears,Garden,GreenCorner,649,4.2,327,29,Garden pruning shears with safety lock
+P1052,Indoor Watering Can,Garden,GreenCorner,399,4.0,218,42,One-litre watering can for indoor plants
+P1053,LED String Lights,Home Decor,GlowHaven,699,4.4,1037,58,Warm-white LED string lights for room decor
+P1054,Framed Wall Art,Home Decor,WallStory,1599,4.1,265,13,Minimalist framed art print for living spaces
+P1055,Scented Candle Set,Home Decor,GlowHaven,799,4.2,612,33,Set of three scented candles in glass jars
+P1056,Puzzle 1000 Pieces,Toys & Games,BrainHarbor,899,4.5,491,27,Illustrated 1000-piece jigsaw puzzle
+P1057,Board Game Strategy,Toys & Games,PlayFoundry,1499,4.4,378,16,Strategy board game for two to four players
+P1058,Building Blocks Set,Toys & Games,PlayFoundry,1199,4.3,562,31,Creative building block set with assorted pieces
+P1059,Fiction Paperback,Books,PageTurner,399,4.5,2187,64,Contemporary fiction paperback edition
+P1060,Python Programming Guide,Books,CodeShelf,799,4.6,874,22,Beginner-friendly guide to Python programming
+P1061,Data Science Handbook,Books,CodeShelf,999,4.5,638,19,Practical introduction to data science concepts
+P1062,Travel Adapter,Travel,GlobeReady,899,4.2,1204,45,Universal travel adapter with USB ports
+P1063,Packing Cubes Set,Travel,GlobeReady,799,4.3,753,37,Set of four packing cubes for luggage
+P1064,Compact Umbrella,Travel,RainRoute,599,4.0,985,51,Compact wind-resistant folding umbrella
+P1065,Car Phone Mount,Automotive,RoadMate,499,4.1,837,40,Dashboard phone mount with adjustable grip
+P1066,Tyre Pressure Gauge,Automotive,RoadMate,699,4.3,346,23,Digital tyre pressure gauge with backlit display
+P1067,Microfiber Cleaning Cloths,Automotive,RoadMate,299,4.2,1117,96,Pack of six microfiber cloths for car care
+P1068,Cat Scratching Post,Pet Supplies,PawHaven,1299,4.4,421,14,Compact scratching post for indoor cats
+P1069,Dog Leash 2m,Pet Supplies,PawHaven,499,4.2,584,32,Durable two-metre dog leash
+P1070,Pet Food Storage Container,Pet Supplies,PawHaven,899,4.1,276,18,Airtight container for dry pet food
+P1071,USB Desk Fan,Electronics,CoolGrid,699,3.9,794,33,Compact USB-powered desk fan
+P1072,HDMI Cable 2m,Electronics,PortPilot,299,4.3,1862,117,Two-metre HDMI cable supporting 4K video
+P1073,Smart Plug,Electronics,HomeLink,999,4.2,653,21,Wi-Fi smart plug with scheduling support
+P1074,Wi-Fi Router,Electronics,HomeLink,2499,4.1,582,13,Dual-band wireless router for home use
+P1075,Tablet Sleeve 11-inch,Bags & Accessories,CarryKind,699,4.2,438,26,Padded sleeve for tablets up to eleven inches
+P1076,Gel Highlighter Set,Office Supplies,PaperPilot,179,4.1,972,83,Set of six pastel gel highlighters
+P1077,Glass Food Jar Set,Home & Kitchen,NeatNest,649,4.4,519,34,Set of three glass food jars with lids
+P1078,Foam Roller,Sports & Outdoors,FlexField,899,4.3,407,20,Textured foam roller for muscle recovery
+P1079,Quick-Dry Towel,Sports & Outdoors,TrailMark,599,4.2,761,48,Lightweight quick-dry towel for travel and sports
+P1080,Crossbody Sling Bag,Bags & Accessories,UrbanHide,1099,4.1,643,30,Compact crossbody sling bag with adjustable strap
+P1081,Desk Mat,Office Supplies,DeskEase,499,4.3,852,67,Large desk mat with non-slip backing
+P1082,Night Light Sensor,Home Decor,GlowHaven,349,4.0,697,44,Plug-in night light with dusk-to-dawn sensor
+P1083,Coffee Grinder,Home & Kitchen,BrewCraft,2199,4.4,302,10,Electric coffee grinder with stainless steel blades
+P1084,Mini First Aid Kit,Travel,GlobeReady,449,4.2,628,25,Compact first aid kit for travel and daily use
+P1085,Resistance Tube with Handles,Sports & Outdoors,IronPath,499,4.1,385,39,Resistance tube with padded handles for workouts
+P1086,Desk Cable Organizer,Electronics,DeskEase,249,4.0,1209,76,Reusable clips for organizing desk cables
+P1087,Reusable Food Wraps,Home & Kitchen,NeatNest,399,4.2,744,59,Reusable food wraps for covering bowls and snacks
+P1088,Portable Document Folder,Office Supplies,PaperPilot,349,4.0,297,46,Expandable folder for documents and receipts
+P1089,Travel Neck Pillow,Travel,RainRoute,699,4.1,818,28,Memory foam neck pillow with washable cover
+P1090,Pet Grooming Brush,Pet Supplies,PawHaven,399,4.3,492,41,Grooming brush for removing loose pet hair
+P1091,Beginner Sketch Set,Arts & Crafts,ColorNest,799,4.5,355,24,"Drawing pencils, eraser and sketchbook set"
+P1092,Watercolor Paint Set,Arts & Crafts,ColorNest,499,4.4,579,38,Watercolor paints with brush and mixing palette
+P1093,Knitting Starter Kit,Arts & Crafts,ColorNest,899,4.2,188,12,Beginner knitting kit with yarn and needles
+P1094,Mini Tripod,Photography,ClearFrame,799,4.1,414,29,Compact adjustable tripod for phones and cameras
+P1095,Camera Cleaning Kit,Photography,ClearFrame,499,4.3,537,43,Lens-safe cleaning tools for camera equipment
+P1096,Ring Light 10-inch,Photography,GlowHaven,1299,4.2,726,17,Dimmable ring light with adjustable phone holder
+P1097,Bluetooth Tracker,Electronics,GlobeReady,1499,4.0,687,22,Bluetooth tracker for keys and bags
+P1098,Laptop Backpack 15-inch,Bags & Accessories,CarryKind,1899,4.4,901,31,Padded laptop backpack with water-resistant fabric
+P1099,Digital Alarm Clock,Home Decor,GlowHaven,899,4.1,472,19,Digital alarm clock with dimmable display
+P1100,Handheld Vacuum,Home & Kitchen,CrispHome,2499,4.0,329,8,Compact handheld vacuum for small cleanups
