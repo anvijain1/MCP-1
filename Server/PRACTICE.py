@@ -42,3 +42,5 @@ def search_products(query: str, limit: int = 10) -> list[dict]:
 
 print(products.shape)
 
+
+
