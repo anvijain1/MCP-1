@@ -6,12 +6,19 @@ mcp = FastMCP("my-first-server")
 products = load_products()
 
 @mcp.tool()
-def search_products(query: str) -> list[dict]:
+def search_products(query: str, limit: int = 10) -> list[dict]:
 
     """Search products by product name, category, brand, or description."""
 
+    query = query.strip()
+
+    if not query:
+        return []
+
+
     #Convert the query to lowercase
     query = query.lower()
+
     # Search the relevant columns for matches
 
     search_columns = [
