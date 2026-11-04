@@ -47,7 +47,7 @@ def filter_products(
     category: str,
     operator: str,
     price: float,
-    limit: int = 50) -> list[dict]:
+    limit: int = 5) -> list[dict]:
 
     """filter products by category and price comparison ."""
 
@@ -75,7 +75,6 @@ def filter_products(
 
 
     return filtered_product.head(limit).to_dict(orient="records")
-
 
 
 if __name__ == "__main__":
